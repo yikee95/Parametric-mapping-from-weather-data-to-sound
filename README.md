@@ -29,5 +29,5 @@ Install libraries:
   </ol>
 </ol>
 
-cite to : [![DOI](https://zenodo.org/badge/481086810.svg)](https://zenodo.org/badge/latestdoi/481086810)
+cite to code: [![DOI](https://zenodo.org/badge/481086810.svg)](https://zenodo.org/badge/latestdoi/481086810)
 
